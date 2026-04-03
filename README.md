@@ -1,16 +1,28 @@
-## Hi there 👋
+# [0x00] :: K. Pascoal
 
-<!--
-**kevison-pascoal/kevison-pascoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### [SYST: STATUS]
+- **Graduando**: Bacharelado em Matemática (UFPE)
+- **Interesse**: Iniciação Científica / Modelagem Algorítmica
+- **Formação Técnica**: Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### [EXEC: SUBSYSTEMS]
+
+```yaml
+instância_lógica:
+  - Matemática Discreta & Estruturas Formais
+  - Análise de Requisitos e Fluxo de Dados
+  - Lógica Aplicada à Programação
+
+infraestrutura:
+  - Servidores Linux (Gestão/Migração)
+  - Modelagem de Bancos Relacionais (MySQL)
+  - Automação e Otimização de Processos
+
+runtime:
+  - Node.js / PHP / JS
+  - Orquestração de APIs RESTful
+  - Fullstack Lifecycle
